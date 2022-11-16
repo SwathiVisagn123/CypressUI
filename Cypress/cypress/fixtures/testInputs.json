@@ -1,0 +1,9 @@
+{
+  "flightDealsEndpoint": "dropdownsPractise/",
+  "topDealsEndpoint": "offers",
+  "baseUrl": "https://rahulshettyacademy.com/seleniumPractise/#/",
+  "searchInput": "Br",
+  "pageSize": "20",
+  "country": "India",
+  "departure": "CJB"
+}
