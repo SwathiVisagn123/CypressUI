@@ -1,8 +1,8 @@
-Cypress Javascript End To End Framework:
+**Cypress Javascript End To End Framework:**
 
 Hi, I have setup a Cypress/Javascript test automation framework from scratch. The tests are non-exhaustive but covers most of the basic Cypress methods and chai assertions.
 
-Specifications:
+👉 Specifications:
 
 Version: 10.0.3
 
@@ -15,7 +15,7 @@ Practice Website: https://rahulshettyacademy.com/
 Test Framework: Mocha
 
 
-In this project I have showcased my ability to :
+👉 In this project I have showcased my ability to :
 
 Locate objects using Jquery methods and CSS selectors
 
