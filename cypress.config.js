@@ -7,5 +7,6 @@ module.exports = defineConfig({
     },
     baseUrl: "https://rahulshettyacademy.com/seleniumPractise/",
     pageLoadTimeout: 150000,
+    video: false
   },
 });
