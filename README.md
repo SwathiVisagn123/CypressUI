@@ -1,10 +1,10 @@
 **Cypress Javascript End To End Framework:**
 
-Hi, I have setup a Cypress/Javascript test automation framework from scratch. The tests are non-exhaustive but covers most of the basic Cypress methods and chai assertions.
+Hi, I have setup a Cypress/Javascript test automation framework from scratch. The tests are non-exhaustive but covers most of the Cypress queries, commands and chai assertions.
 
 👉 Specifications:
 
-Version: 10.0.3
+Version: 12.9.0
 
 Language: Javascript
 
