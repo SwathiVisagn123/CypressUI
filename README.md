@@ -1,6 +1,6 @@
 **Cypress Javascript End To End Framework:**
 
-Hi, I have setup a Cypress/Javascript test automation framework from scratch. The tests are non-exhaustive but covers most of the Cypress queries, commands and chai assertions.
+Hi, I have setup a Cypress/Javascript test automation framework from scratch. The tests cover most of the Cypress queries, commands and chai assertions.
 
 👉 Specifications:
 
@@ -30,6 +30,10 @@ Usage of Chai assertions
 Structure the tests using Mocha test framework (hooks)
 
 Organise test data inputs using fixture file 
+
+👉 CI/CD :
+
+Configured Github Actions to trigger tests when a push event occurs
 
 
 
